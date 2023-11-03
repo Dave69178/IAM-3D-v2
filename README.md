@@ -1,5 +1,5 @@
 # IAM-3D-v2
-Simulation of 3D boids for report on collective motion in Eurpoean Starlings
+Simulation of 3D boids for report on collective motion in European Starlings
 
 ## Notes 
 - Files relating to a scientific report for the module Intelligence in Animals and Machines.
