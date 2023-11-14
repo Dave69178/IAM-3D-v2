@@ -1,4 +1,4 @@
-# IAM-3D-v2
+# collective-motion-3d-modelling
 Simulation of 3D boids for report on collective motion in European Starlings
 
 ## Notes 
